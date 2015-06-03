@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Impression
+Comment=Ubuntu 10.10 light theme
+Encoding=UTF-8
+
+Name[en_US]=Impression
+
+[X-GNOME-Metatheme]
+GtkTheme=Impression
+MetacityTheme=Impression
+IconTheme=ubuntu-mono-dark-elementary
+CursorTheme=DMZ-White
+ButtonLayout=close,minimize,maximize:
